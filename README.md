@@ -1,5 +1,5 @@
 # Midi-Music-Generator
-LSTM Midi Music Generator trained with the clean version Nothingham Music Database by Jukebox. [1](https://github.com/jukedeck/nottingham-dataset)]
+LSTM Midi Music Generator trained with the clean version Nothingham Music Database by Jukebox. [1](https://github.com/jukedeck/nottingham-dataset)
 
 The files within this repository are:
 
